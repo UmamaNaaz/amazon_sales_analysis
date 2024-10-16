@@ -20,9 +20,9 @@ This project aims to analyze the Amazon Sales dataset to uncover valuable insigh
 
 ## Results
 
-1. Top-rated product categories with average ratings between 4.50 and 4.60.
-2. Insights into sales trends and customer behavior.
-3. Visualizations that depict key patterns in customer ratings and product demand.
+- Top-rated product categories with average ratings between 4.50 and 4.60.
+- Insights into sales trends and customer behavior.
+- Visualizations that depict key patterns in customer ratings and product demand.
 
 ## Conclusion
 
