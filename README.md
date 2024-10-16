@@ -13,8 +13,8 @@ This project aims to analyze the Amazon Sales dataset to uncover valuable insigh
 
 ## Features
 
-**Data Cleaning**: Handles missing values, incorrect data types, and duplicates to prepare a clean dataset.
-**Exploratory Data Analysis (EDA)**: Identifies key trends and patterns in the data.
+**Data Cleaning\n**: Handles missing values, incorrect data types, and duplicates to prepare a clean dataset.
+**Exploratory Data Analysis (EDA)\n**: Identifies key trends and patterns in the data.
 **Visualization**: Provides insights through graphical representations such as bar charts, histograms, and scatter plots.
 **Category Analysis**: Highlights the top-rated product categories based on average customer ratings.
 
